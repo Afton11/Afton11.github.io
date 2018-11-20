@@ -1,0 +1,31 @@
+body, 
+html {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	background-image: url("musicbackground1.jpg");
+	background-position: center;
+  	background-size: cover;
+}
+
+.container {
+	
+	
+
+}
+
+.navbar {
+	text-align: center;
+	width: 100%;
+
+	float: left;
+
+	
+}
+
+.jumbotron {
+   background: rgb(200, 54, 54); /* This is for ie8 and below */
+   background: rgba(229, 224, 224, 0.5); 
+}
